@@ -1,0 +1,1 @@
+This project is intended towards learning git features.
