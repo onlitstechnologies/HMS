@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    min-height: 100vh;
+    background-image: url("wallpaper.jpg");
+    background-position: cover;
+}
+.container{
+    margin: auto;
+    width:  500px;
+    max-width: 90%;
+}
+.container form{
+    width: 100%;
+    height: 100%;
+    padding: 20px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 8px 16px rgba(0,0,0,.3);  
+}
+.container form h1{
+    text-align: center;
+    margin-bottom: 24px;
+    color: #222;
+}
+.container form .from-control{
+    width: 100%;
+    height: ;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
